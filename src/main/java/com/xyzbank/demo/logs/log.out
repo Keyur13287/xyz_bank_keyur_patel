@@ -1,0 +1,547 @@
+2024-06-29 16:06:772 INFO  HomePage :24 - click on [[ChromeDriver: chrome on windows (99a2f3806735698ce57d1956b0142ad4)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-06-29 16:06:371 INFO  HomePage :29 - click on [[ChromeDriver: chrome on windows (99a2f3806735698ce57d1956b0142ad4)] -> xpath: //button[normalize-space()='Add Customer']]
+2024-06-29 16:06:538 INFO  HomePage :24 - click on [[ChromeDriver: chrome on windows (ffb83ae0a4b77a19068388dc671055ff)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-06-29 16:06:202 INFO  HomePage :29 - click on [[ChromeDriver: chrome on windows (ffb83ae0a4b77a19068388dc671055ff)] -> xpath: //button[normalize-space()='Add Customer']]
+2024-06-29 16:06:847 INFO  AddCustomerPage :32 - Enter first name fName
+2024-06-29 16:06:25 INFO  AddCustomerPage :37 - Enter last name lName
+2024-06-29 16:06:204 INFO  AddCustomerPage :42 - Enter post code postCode
+2024-06-29 16:06:313 INFO  AddCustomerPage :48 - click on [[ChromeDriver: chrome on windows (ffb83ae0a4b77a19068388dc671055ff)] -> xpath: //button[@type='submit']]
+2024-06-29 16:06:673 INFO  HomePage :24 - click on [[ChromeDriver: chrome on windows (9019a0bbb4b19489c4d61f47d05649ba)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-06-29 16:06:299 INFO  HomePage :29 - click on [[ChromeDriver: chrome on windows (9019a0bbb4b19489c4d61f47d05649ba)] -> xpath: //button[normalize-space()='Add Customer']]
+2024-06-29 16:06:957 INFO  AddCustomerPage :32 - Enter first name fName
+2024-06-29 16:06:123 INFO  AddCustomerPage :37 - Enter last name lName
+2024-06-29 16:06:304 INFO  AddCustomerPage :42 - Enter post code postCode
+2024-06-29 16:06:423 INFO  AddCustomerPage :48 - click on [[ChromeDriver: chrome on windows (9019a0bbb4b19489c4d61f47d05649ba)] -> xpath: //button[@type='submit']]
+2024-06-29 16:06:208 INFO  HomePage :24 - click on [[ChromeDriver: chrome on windows (b58efe787bc680e8f4db1cbba8838515)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-06-29 16:06:820 INFO  HomePage :29 - click on [[ChromeDriver: chrome on windows (b58efe787bc680e8f4db1cbba8838515)] -> xpath: //button[normalize-space()='Add Customer']]
+2024-06-29 16:06:518 INFO  AddCustomerPage :32 - Enter first name fName
+2024-06-29 16:06:672 INFO  AddCustomerPage :37 - Enter last name lName
+2024-06-29 16:06:849 INFO  AddCustomerPage :42 - Enter post code postCode
+2024-06-29 16:06:952 INFO  AddCustomerPage :48 - click on [[ChromeDriver: chrome on windows (b58efe787bc680e8f4db1cbba8838515)] -> xpath: //button[@type='submit']]
+2024-06-29 16:06:300 INFO  HomePage :24 - click on [[ChromeDriver: chrome on windows (ebcf83d7a09e1896ec06fef2cd96e0b5)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-06-29 16:06:40 INFO  HomePage :29 - click on [[ChromeDriver: chrome on windows (ebcf83d7a09e1896ec06fef2cd96e0b5)] -> xpath: //button[normalize-space()='Add Customer']]
+2024-06-29 16:06:823 INFO  AddCustomerPage :32 - Enter first name fName
+2024-06-29 16:06:963 INFO  AddCustomerPage :37 - Enter last name lName
+2024-06-29 16:06:142 INFO  AddCustomerPage :42 - Enter post code postCode
+2024-06-29 16:06:233 INFO  AddCustomerPage :48 - click on [[ChromeDriver: chrome on windows (ebcf83d7a09e1896ec06fef2cd96e0b5)] -> xpath: //button[@type='submit']]
+2024-06-29 16:06:473 INFO  HomePage :24 - click on [[ChromeDriver: chrome on windows (a48d9a09aa1a51732627ad21705ad088)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-06-29 16:06:280 INFO  HomePage :29 - click on [[ChromeDriver: chrome on windows (a48d9a09aa1a51732627ad21705ad088)] -> xpath: //button[normalize-space()='Add Customer']]
+2024-06-29 16:06:923 INFO  AddCustomerPage :32 - Enter first name fName
+2024-06-29 16:06:74 INFO  AddCustomerPage :37 - Enter last name lName
+2024-06-29 16:06:253 INFO  AddCustomerPage :42 - Enter post code postCode
+2024-06-29 16:06:365 INFO  AddCustomerPage :48 - click on [[ChromeDriver: chrome on windows (a48d9a09aa1a51732627ad21705ad088)] -> xpath: //button[@type='submit']]
+2024-06-29 16:06:999 INFO  HomePage :24 - click on [[ChromeDriver: chrome on windows (97ff9bc9477c6027135bee6c8ea73af7)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-06-29 16:06:567 INFO  HomePage :29 - click on [[ChromeDriver: chrome on windows (97ff9bc9477c6027135bee6c8ea73af7)] -> xpath: //button[normalize-space()='Add Customer']]
+2024-06-29 16:06:315 INFO  AddCustomerPage :32 - Enter first name fName
+2024-06-29 16:06:477 INFO  AddCustomerPage :37 - Enter last name lName
+2024-06-29 16:06:653 INFO  AddCustomerPage :42 - Enter post code postCode
+2024-06-29 16:06:783 INFO  AddCustomerPage :48 - click on [[ChromeDriver: chrome on windows (97ff9bc9477c6027135bee6c8ea73af7)] -> xpath: //button[@type='submit']]
+2024-06-29 16:06:505 INFO  HomePage :28 - click on [[ChromeDriver: chrome on windows (0315a6eb9ee2f113d905146a9868fffb)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-06-29 16:06:16 INFO  HomePage :33 - click on [[ChromeDriver: chrome on windows (0315a6eb9ee2f113d905146a9868fffb)] -> xpath: //button[normalize-space()='Add Customer']]
+2024-06-29 16:06:732 INFO  AddCustomerPage :32 - Enter first name Prime
+2024-06-29 16:06:917 INFO  AddCustomerPage :37 - Enter last name Testing
+2024-06-29 16:06:98 INFO  AddCustomerPage :42 - Enter post code B983AF
+2024-06-29 16:06:221 INFO  AddCustomerPage :48 - click on [[ChromeDriver: chrome on windows (0315a6eb9ee2f113d905146a9868fffb)] -> xpath: //button[@type='submit']]
+2024-06-29 16:06:84 INFO  HomePage :28 - click on [[ChromeDriver: chrome on windows (4bac4fbfcc4a2f1abf228f6d4e5ff2a4)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-06-29 16:06:798 INFO  HomePage :33 - click on [[ChromeDriver: chrome on windows (4bac4fbfcc4a2f1abf228f6d4e5ff2a4)] -> xpath: //button[normalize-space()='Add Customer']]
+2024-06-29 16:06:614 INFO  AddCustomerPage :32 - Enter first name Prime
+2024-06-29 16:06:971 INFO  AddCustomerPage :37 - Enter last name Testing
+2024-06-29 16:06:125 INFO  AddCustomerPage :42 - Enter post code B983AF
+2024-06-29 16:06:221 INFO  AddCustomerPage :48 - click on [[ChromeDriver: chrome on windows (4bac4fbfcc4a2f1abf228f6d4e5ff2a4)] -> xpath: //button[@type='submit']]
+2024-06-29 17:06:886 INFO  HomePage :28 - click on [[ChromeDriver: chrome on windows (ab07fd4e8f90d3e85e288342dbb8d25b)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-06-29 17:06:460 INFO  HomePage :38 - click on [[ChromeDriver: chrome on windows (ab07fd4e8f90d3e85e288342dbb8d25b)] -> xpath: //button[normalize-space()='Open Account']]
+2024-06-29 17:06:69 INFO  HomePage :28 - click on [[ChromeDriver: chrome on windows (4cd4a608291575a75248e842dcdeb94d)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-06-29 17:06:551 INFO  HomePage :38 - click on [[ChromeDriver: chrome on windows (4cd4a608291575a75248e842dcdeb94d)] -> xpath: //button[normalize-space()='Open Account']]
+2024-06-29 17:06:102 INFO  OpenAccountPage :29 - select Harry Potter
+2024-06-29 17:06:182 INFO  OpenAccountPage :34 - select Pound
+2024-06-29 17:06:225 INFO  OpenAccountPage :39 - Click on [[ChromeDriver: chrome on windows (4cd4a608291575a75248e842dcdeb94d)] -> xpath: //button[normalize-space()='Process']]
+2024-06-29 17:06:474 INFO  HomePage :28 - click on [[ChromeDriver: chrome on windows (63f4aea9f7e40e33b6e97d2906c616db)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-06-29 17:06:961 INFO  HomePage :38 - click on [[ChromeDriver: chrome on windows (63f4aea9f7e40e33b6e97d2906c616db)] -> xpath: //button[normalize-space()='Open Account']]
+2024-06-29 17:06:511 INFO  OpenAccountPage :29 - select Harry Potter
+2024-06-29 17:06:585 INFO  OpenAccountPage :34 - select Pound
+2024-06-29 17:06:627 INFO  OpenAccountPage :39 - Click on [[ChromeDriver: chrome on windows (63f4aea9f7e40e33b6e97d2906c616db)] -> xpath: //button[normalize-space()='Process']]
+2024-06-29 17:06:395 INFO  HomePage :28 - click on [[ChromeDriver: chrome on windows (20b57c9da7ce57b774dd6f1a254f93ec)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-06-29 17:06:883 INFO  HomePage :38 - click on [[ChromeDriver: chrome on windows (20b57c9da7ce57b774dd6f1a254f93ec)] -> xpath: //button[normalize-space()='Open Account']]
+2024-06-29 17:06:439 INFO  OpenAccountPage :29 - select Harry Potter
+2024-06-29 17:06:522 INFO  OpenAccountPage :34 - select Pound
+2024-06-29 17:06:573 INFO  OpenAccountPage :39 - Click on [[ChromeDriver: chrome on windows (20b57c9da7ce57b774dd6f1a254f93ec)] -> xpath: //button[normalize-space()='Process']]
+2024-06-29 17:06:306 INFO  HomePage :37 - click on [[ChromeDriver: chrome on windows (22a30733af4498033e5e34d35487d820)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-06-29 17:06:318 INFO  OpenAccountPage :29 - select Harry Potter
+2024-06-29 17:06:358 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (22a30733af4498033e5e34d35487d820)] -> xpath: //button[normalize-space()='Login']]
+2024-06-29 17:06:373 INFO  CustomerPage :24 - get logout text [[ChromeDriver: chrome on windows (22a30733af4498033e5e34d35487d820)] -> xpath: //button[normalize-space()='Logout']]
+2024-06-29 17:06:54 INFO  HomePage :37 - click on [[ChromeDriver: chrome on windows (8bfcd05df6b685673dbf7a37129db8df)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-06-29 17:06:708 INFO  OpenAccountPage :29 - select Harry Potter
+2024-06-29 17:06:754 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (8bfcd05df6b685673dbf7a37129db8df)] -> xpath: //button[normalize-space()='Login']]
+2024-06-29 17:06:768 INFO  CustomerPage :24 - get logout text [[ChromeDriver: chrome on windows (8bfcd05df6b685673dbf7a37129db8df)] -> xpath: //button[normalize-space()='Logout']]
+2024-06-29 17:06:529 INFO  HomePage :37 - click on [[ChromeDriver: chrome on windows (1322fbab055cc193fa3ae04e0626e7d4)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-06-29 17:06:103 INFO  OpenAccountPage :29 - select Harry Potter
+2024-06-29 17:06:152 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (1322fbab055cc193fa3ae04e0626e7d4)] -> xpath: //button[normalize-space()='Login']]
+2024-06-29 17:06:169 INFO  CustomerPage :24 - get logout text [[ChromeDriver: chrome on windows (1322fbab055cc193fa3ae04e0626e7d4)] -> xpath: //button[normalize-space()='Logout']]
+2024-06-29 17:06:237 INFO  HomePage :37 - click on [[ChromeDriver: chrome on windows (d1e72257b5dc040f03eeddb73f709e58)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-06-29 17:06:922 INFO  OpenAccountPage :29 - select Harry Potter
+2024-06-29 17:06:963 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (d1e72257b5dc040f03eeddb73f709e58)] -> xpath: //button[normalize-space()='Login']]
+2024-06-29 17:06:740 INFO  HomePage :37 - click on [[ChromeDriver: chrome on windows (9050412cb31dd53c7f761e2409f46e33)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-06-29 17:06:285 INFO  OpenAccountPage :29 - select Harry Potter
+2024-06-29 17:06:335 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (9050412cb31dd53c7f761e2409f46e33)] -> xpath: //button[normalize-space()='Login']]
+2024-06-29 17:06:357 INFO  CustomerPage :24 - get logout text [[ChromeDriver: chrome on windows (9050412cb31dd53c7f761e2409f46e33)] -> xpath: //button[normalize-space()='Logout']]
+2024-06-29 17:06:500 INFO  HomePage :37 - click on [[ChromeDriver: chrome on windows (3d472b8655115ad45991642b525a99cc)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-06-29 17:06:55 INFO  OpenAccountPage :29 - select Harry Potter
+2024-06-29 17:06:97 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (3d472b8655115ad45991642b525a99cc)] -> xpath: //button[normalize-space()='Login']]
+2024-06-29 17:06:113 INFO  CustomerPage :24 - get logout text [[ChromeDriver: chrome on windows (3d472b8655115ad45991642b525a99cc)] -> xpath: //button[normalize-space()='Logout']]
+2024-06-29 17:06:583 INFO  HomePage :37 - click on [[ChromeDriver: chrome on windows (dc94d65a147de2722526cc4d967fec11)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-06-29 17:06:146 INFO  OpenAccountPage :29 - select Harry Potter
+2024-06-29 17:06:188 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (dc94d65a147de2722526cc4d967fec11)] -> xpath: //button[normalize-space()='Login']]
+2024-06-29 17:06:206 INFO  CustomerPage :24 - get logout text [[ChromeDriver: chrome on windows (dc94d65a147de2722526cc4d967fec11)] -> xpath: //button[normalize-space()='Logout']]
+2024-06-29 17:06:177 INFO  HomePage :37 - click on [[ChromeDriver: chrome on windows (d95fba1df5889c000868586f76d4b549)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-06-29 17:06:790 INFO  OpenAccountPage :29 - select Harry Potter
+2024-06-29 17:06:850 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (d95fba1df5889c000868586f76d4b549)] -> xpath: //button[normalize-space()='Login']]
+2024-06-29 17:06:869 INFO  CustomerPage :24 - get logout text [[ChromeDriver: chrome on windows (d95fba1df5889c000868586f76d4b549)] -> xpath: //button[normalize-space()='Logout']]
+2024-06-29 17:06:113 INFO  HomePage :37 - click on [[ChromeDriver: chrome on windows (1fc625262c6d5e99f8b1973e3bd04039)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-06-29 17:06:747 INFO  OpenAccountPage :29 - select Harry Potter
+2024-06-29 17:06:800 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (1fc625262c6d5e99f8b1973e3bd04039)] -> xpath: //button[normalize-space()='Login']]
+2024-06-29 17:06:247 INFO  AccountPage :24 - get logout text [[ChromeDriver: chrome on windows (1fc625262c6d5e99f8b1973e3bd04039)] -> xpath: //button[@class='btn logout']]
+2024-06-29 17:06:486 INFO  HomePage :37 - click on [[ChromeDriver: chrome on windows (c054b3f15a73d1f5f6e0cbee019f1311)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-06-29 17:06:130 INFO  OpenAccountPage :29 - select Harry Potter
+2024-06-29 17:06:174 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (c054b3f15a73d1f5f6e0cbee019f1311)] -> xpath: //button[normalize-space()='Login']]
+2024-06-29 17:06:632 INFO  AccountPage :24 - get logout text [[ChromeDriver: chrome on windows (c054b3f15a73d1f5f6e0cbee019f1311)] -> xpath: //button[@class='btn logout']]
+2024-06-29 17:06:686 INFO  AccountPage :20 - click on [[ChromeDriver: chrome on windows (c054b3f15a73d1f5f6e0cbee019f1311)] -> xpath: //button[@class='btn logout']]
+2024-06-29 17:06:697 INFO  CustomerLoginPage :28 - get text [[ChromeDriver: chrome on windows (c054b3f15a73d1f5f6e0cbee019f1311)] -> xpath: //label[normalize-space()='Your Name :']]
+2024-06-29 17:06:617 INFO  HomePage :37 - click on [[ChromeDriver: chrome on windows (0171983a92bb0687cdf06324e97073bf)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-06-29 17:06:216 INFO  OpenAccountPage :29 - select Harry Potter
+2024-06-29 17:06:262 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (0171983a92bb0687cdf06324e97073bf)] -> xpath: //button[normalize-space()='Login']]
+2024-06-29 17:06:798 INFO  AccountPage :32 - click on [[ChromeDriver: chrome on windows (0171983a92bb0687cdf06324e97073bf)] -> xpath: //button[normalize-space()='Deposit']]
+2024-06-29 17:06:294 INFO  AccountPage :42 - Enter 100
+2024-06-29 17:06:335 INFO  AccountPage :37 - click on [[ChromeDriver: chrome on windows (0171983a92bb0687cdf06324e97073bf)] -> xpath: //button[@type='submit']]
+2024-06-29 17:06:349 INFO  AccountPage :46 - Get text [[ChromeDriver: chrome on windows (0171983a92bb0687cdf06324e97073bf)] -> xpath: //span[@class='error ng-binding']]
+2024-06-29 17:06:153 INFO  HomePage :37 - click on [[ChromeDriver: chrome on windows (990b2306e9f1ec85664671c1b8ad5c52)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-06-29 17:06:713 INFO  OpenAccountPage :29 - select Harry Potter
+2024-06-29 17:06:762 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (990b2306e9f1ec85664671c1b8ad5c52)] -> xpath: //button[normalize-space()='Login']]
+2024-06-29 17:06:240 INFO  AccountPage :41 - click on [[ChromeDriver: chrome on windows (990b2306e9f1ec85664671c1b8ad5c52)] -> xpath: //button[normalize-space()='Withdrawl']]
+2024-06-29 17:06:801 INFO  AccountPage :51 - Enter 50
+2024-06-29 17:06:847 INFO  AccountPage :46 - click on [[ChromeDriver: chrome on windows (990b2306e9f1ec85664671c1b8ad5c52)] -> xpath: //button[@type='submit']]
+2024-06-29 17:06:861 INFO  AccountPage :55 - Get text [[ChromeDriver: chrome on windows (990b2306e9f1ec85664671c1b8ad5c52)] -> xpath: //span[@class='error ng-binding']]
+2024-06-29 17:06:632 INFO  HomePage :37 - click on [[ChromeDriver: chrome on windows (7c260bfa90d6b04a49505b5742cb9f3d)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-06-29 17:06:186 INFO  OpenAccountPage :29 - select Harry Potter
+2024-06-29 17:06:234 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (7c260bfa90d6b04a49505b5742cb9f3d)] -> xpath: //button[normalize-space()='Login']]
+2024-06-29 17:06:720 INFO  AccountPage :36 - click on [[ChromeDriver: chrome on windows (7c260bfa90d6b04a49505b5742cb9f3d)] -> xpath: //button[normalize-space()='Deposit']]
+2024-06-29 17:06:217 INFO  AccountPage :51 - Enter 100
+2024-06-29 17:06:261 INFO  AccountPage :46 - click on [[ChromeDriver: chrome on windows (7c260bfa90d6b04a49505b5742cb9f3d)] -> xpath: //button[@type='submit']]
+2024-06-29 17:06:275 INFO  AccountPage :55 - Get text [[ChromeDriver: chrome on windows (7c260bfa90d6b04a49505b5742cb9f3d)] -> xpath: //span[@class='error ng-binding']]
+2024-06-29 17:06:768 INFO  HomePage :37 - click on [[ChromeDriver: chrome on windows (a4dd6061e53468ec03c93dbfb5398603)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-06-29 17:06:363 INFO  OpenAccountPage :29 - select Harry Potter
+2024-06-29 17:06:407 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (a4dd6061e53468ec03c93dbfb5398603)] -> xpath: //button[normalize-space()='Login']]
+2024-06-29 17:06:881 INFO  AccountPage :41 - click on [[ChromeDriver: chrome on windows (a4dd6061e53468ec03c93dbfb5398603)] -> xpath: //button[normalize-space()='Withdrawl']]
+2024-06-29 17:06:373 INFO  AccountPage :51 - Enter 50
+2024-06-29 17:06:421 INFO  AccountPage :46 - click on [[ChromeDriver: chrome on windows (a4dd6061e53468ec03c93dbfb5398603)] -> xpath: //button[@type='submit']]
+2024-06-29 17:06:437 INFO  AccountPage :55 - Get text [[ChromeDriver: chrome on windows (a4dd6061e53468ec03c93dbfb5398603)] -> xpath: //span[@class='error ng-binding']]
+2024-06-29 17:06:946 INFO  HomePage :37 - click on [[ChromeDriver: chrome on windows (f4520bc9e68d09a5a9b0ded20cdf5cb8)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-06-29 17:06:504 INFO  OpenAccountPage :29 - select Harry Potter
+2024-06-29 17:06:552 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (f4520bc9e68d09a5a9b0ded20cdf5cb8)] -> xpath: //button[normalize-space()='Login']]
+2024-06-29 17:06:29 INFO  AccountPage :36 - click on [[ChromeDriver: chrome on windows (f4520bc9e68d09a5a9b0ded20cdf5cb8)] -> xpath: //button[normalize-space()='Deposit']]
+2024-06-29 17:06:521 INFO  AccountPage :51 - Enter 1000
+2024-06-29 17:06:565 INFO  AccountPage :46 - click on [[ChromeDriver: chrome on windows (f4520bc9e68d09a5a9b0ded20cdf5cb8)] -> xpath: //button[@type='submit']]
+2024-06-29 17:06:578 INFO  AccountPage :55 - Get text [[ChromeDriver: chrome on windows (f4520bc9e68d09a5a9b0ded20cdf5cb8)] -> xpath: //span[@class='error ng-binding']]
+2024-06-29 17:06:359 INFO  HomePage :37 - click on [[ChromeDriver: chrome on windows (70b60da12d88c669dccdaae823f02e81)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-06-29 17:06:936 INFO  OpenAccountPage :29 - select Harry Potter
+2024-06-29 17:06:980 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (70b60da12d88c669dccdaae823f02e81)] -> xpath: //button[normalize-space()='Login']]
+2024-06-29 17:06:462 INFO  AccountPage :41 - click on [[ChromeDriver: chrome on windows (70b60da12d88c669dccdaae823f02e81)] -> xpath: //button[normalize-space()='Withdrawl']]
+2024-06-29 17:06:966 INFO  AccountPage :51 - Enter 50
+2024-06-29 17:06:13 INFO  AccountPage :46 - click on [[ChromeDriver: chrome on windows (70b60da12d88c669dccdaae823f02e81)] -> xpath: //button[@type='submit']]
+2024-06-29 17:06:27 INFO  AccountPage :55 - Get text [[ChromeDriver: chrome on windows (70b60da12d88c669dccdaae823f02e81)] -> xpath: //span[@class='error ng-binding']]
+2024-06-29 17:06:434 INFO  HomePage :37 - click on [[ChromeDriver: chrome on windows (f9c9e03e60893702bdde5f99120a7436)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-06-29 17:06:09 INFO  OpenAccountPage :29 - select Harry Potter
+2024-06-29 17:06:67 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (f9c9e03e60893702bdde5f99120a7436)] -> xpath: //button[normalize-space()='Login']]
+2024-06-29 17:06:543 INFO  AccountPage :36 - click on [[ChromeDriver: chrome on windows (f9c9e03e60893702bdde5f99120a7436)] -> xpath: //button[normalize-space()='Deposit']]
+2024-06-29 17:06:47 INFO  AccountPage :51 - Enter 1000
+2024-06-29 17:06:91 INFO  AccountPage :46 - click on [[ChromeDriver: chrome on windows (f9c9e03e60893702bdde5f99120a7436)] -> xpath: //button[@type='submit']]
+2024-06-29 17:06:103 INFO  AccountPage :55 - Get text [[ChromeDriver: chrome on windows (f9c9e03e60893702bdde5f99120a7436)] -> xpath: //span[@class='error ng-binding']]
+2024-06-29 17:06:537 INFO  HomePage :37 - click on [[ChromeDriver: chrome on windows (4daf208c2b6e8df01339b0b77efd6877)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-06-29 17:06:100 INFO  OpenAccountPage :29 - select Harry Potter
+2024-06-29 17:06:140 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (4daf208c2b6e8df01339b0b77efd6877)] -> xpath: //button[normalize-space()='Login']]
+2024-06-29 17:06:628 INFO  AccountPage :41 - click on [[ChromeDriver: chrome on windows (4daf208c2b6e8df01339b0b77efd6877)] -> xpath: //button[normalize-space()='Withdrawl']]
+2024-06-29 17:06:174 INFO  AccountPage :51 - Enter 50
+2024-06-29 17:06:219 INFO  AccountPage :46 - click on [[ChromeDriver: chrome on windows (4daf208c2b6e8df01339b0b77efd6877)] -> xpath: //button[@type='submit']]
+2024-06-29 17:06:233 INFO  AccountPage :55 - Get text [[ChromeDriver: chrome on windows (4daf208c2b6e8df01339b0b77efd6877)] -> xpath: //span[@class='error ng-binding']]
+2024-06-29 18:06:347 INFO  HomePage :24 - click on [[ChromeDriver: chrome on windows (b0c095f8a0228690f402755f21d891e4)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-06-29 18:06:839 INFO  BankManageLoginPage :26 - click on [[ChromeDriver: chrome on windows (b0c095f8a0228690f402755f21d891e4)] -> xpath: //button[normalize-space()='Add Customer']]
+2024-06-29 18:06:371 INFO  AddCustomerPage :32 - Enter first name Prime
+2024-06-29 18:06:434 INFO  AddCustomerPage :37 - Enter last name Testing
+2024-06-29 18:06:505 INFO  AddCustomerPage :42 - Enter post code B983AF
+2024-06-29 18:06:561 INFO  AddCustomerPage :48 - click on [[ChromeDriver: chrome on windows (b0c095f8a0228690f402755f21d891e4)] -> xpath: //button[@type='submit']]
+2024-06-29 18:06:32 INFO  HomePage :24 - click on [[ChromeDriver: chrome on windows (e9db394c2e4a24ec5ba021e6e2997fe6)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-06-29 18:06:602 INFO  BankManageLoginPage :31 - click on [[ChromeDriver: chrome on windows (e9db394c2e4a24ec5ba021e6e2997fe6)] -> xpath: //button[normalize-space()='Open Account']]
+2024-06-29 18:06:145 INFO  OpenAccountPage :29 - select Harry Potter
+2024-06-29 18:06:217 INFO  OpenAccountPage :34 - select Pound
+2024-06-29 18:06:262 INFO  OpenAccountPage :39 - Click on [[ChromeDriver: chrome on windows (e9db394c2e4a24ec5ba021e6e2997fe6)] -> xpath: //button[normalize-space()='Process']]
+2024-06-29 18:06:780 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (9979d8c92613d8bbe37d2e128f05ec98)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-06-29 18:06:463 INFO  OpenAccountPage :29 - select Harry Potter
+2024-06-29 18:06:511 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (9979d8c92613d8bbe37d2e128f05ec98)] -> xpath: //button[normalize-space()='Login']]
+2024-06-29 18:06:82 INFO  CustomerPage :24 - get logout text [[ChromeDriver: chrome on windows (9979d8c92613d8bbe37d2e128f05ec98)] -> xpath: //button[@class='btn logout']]
+2024-06-29 18:06:135 INFO  CustomerPage :20 - click on [[ChromeDriver: chrome on windows (9979d8c92613d8bbe37d2e128f05ec98)] -> xpath: //button[@class='btn logout']]
+2024-06-29 18:06:147 INFO  CustomerLoginPage :28 - get text [[ChromeDriver: chrome on windows (9979d8c92613d8bbe37d2e128f05ec98)] -> xpath: //label[normalize-space()='Your Name :']]
+2024-06-29 18:06:741 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (03141e31b1b34b6fa50a752c034ad655)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-06-29 18:06:297 INFO  OpenAccountPage :29 - select Harry Potter
+2024-06-29 18:06:342 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (03141e31b1b34b6fa50a752c034ad655)] -> xpath: //button[normalize-space()='Login']]
+2024-06-29 18:06:812 INFO  AccountPage :36 - click on [[ChromeDriver: chrome on windows (03141e31b1b34b6fa50a752c034ad655)] -> xpath: //button[normalize-space()='Deposit']]
+2024-06-29 18:06:317 INFO  AccountPage :51 - Enter 1000
+2024-06-29 18:06:360 INFO  AccountPage :46 - click on [[ChromeDriver: chrome on windows (03141e31b1b34b6fa50a752c034ad655)] -> xpath: //button[@type='submit']]
+2024-06-29 18:06:373 INFO  AccountPage :55 - Get text [[ChromeDriver: chrome on windows (03141e31b1b34b6fa50a752c034ad655)] -> xpath: //span[@class='error ng-binding']]
+2024-06-29 18:06:35 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (0cf845e7a6db24b0a49da98dc9ef2b53)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-06-29 18:06:592 INFO  OpenAccountPage :29 - select Harry Potter
+2024-06-29 18:06:637 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (0cf845e7a6db24b0a49da98dc9ef2b53)] -> xpath: //button[normalize-space()='Login']]
+2024-06-29 18:06:121 INFO  AccountPage :41 - click on [[ChromeDriver: chrome on windows (0cf845e7a6db24b0a49da98dc9ef2b53)] -> xpath: //button[normalize-space()='Withdrawl']]
+2024-06-29 18:06:622 INFO  AccountPage :51 - Enter 50
+2024-06-29 18:06:664 INFO  AccountPage :46 - click on [[ChromeDriver: chrome on windows (0cf845e7a6db24b0a49da98dc9ef2b53)] -> xpath: //button[@type='submit']]
+2024-06-29 18:06:678 INFO  AccountPage :55 - Get text [[ChromeDriver: chrome on windows (0cf845e7a6db24b0a49da98dc9ef2b53)] -> xpath: //span[@class='error ng-binding']]
+2024-06-30 01:06:165 INFO  HomePage :24 - click on [[ChromeDriver: chrome on windows (82b0df235a6c41e48eac67aa68e3c520)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-06-30 01:06:686 INFO  BankManageLoginPage :26 - click on [[ChromeDriver: chrome on windows (82b0df235a6c41e48eac67aa68e3c520)] -> xpath: //button[normalize-space()='Add Customer']]
+2024-06-30 01:06:282 INFO  AddCustomerPage :32 - Enter first name Prime
+2024-06-30 01:06:394 INFO  AddCustomerPage :37 - Enter last name Testing
+2024-06-30 01:06:512 INFO  AddCustomerPage :42 - Enter post code B983AF
+2024-06-30 01:06:614 INFO  AddCustomerPage :48 - click on [[ChromeDriver: chrome on windows (82b0df235a6c41e48eac67aa68e3c520)] -> xpath: //button[@type='submit']]
+2024-06-30 01:06:982 INFO  HomePage :24 - click on [[ChromeDriver: chrome on windows (51535490a0d9b35d889826413508d3b8)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-06-30 01:06:510 INFO  BankManageLoginPage :31 - click on [[ChromeDriver: chrome on windows (51535490a0d9b35d889826413508d3b8)] -> xpath: //button[normalize-space()='Open Account']]
+2024-06-30 01:06:185 INFO  OpenAccountPage :29 - select Harry Potter
+2024-06-30 01:06:315 INFO  OpenAccountPage :34 - select Pound
+2024-06-30 01:06:388 INFO  OpenAccountPage :39 - Click on [[ChromeDriver: chrome on windows (51535490a0d9b35d889826413508d3b8)] -> xpath: //button[normalize-space()='Process']]
+2024-06-30 01:06:679 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (9af540b7ea9f1d05d961730767f6740f)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-06-30 01:06:399 INFO  OpenAccountPage :29 - select Harry Potter
+2024-06-30 01:06:478 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (9af540b7ea9f1d05d961730767f6740f)] -> xpath: //button[normalize-space()='Login']]
+2024-06-30 01:06:00 INFO  CustomerPage :24 - get logout text [[ChromeDriver: chrome on windows (9af540b7ea9f1d05d961730767f6740f)] -> xpath: //button[@class='btn logout']]
+2024-06-30 01:06:73 INFO  CustomerPage :20 - click on [[ChromeDriver: chrome on windows (9af540b7ea9f1d05d961730767f6740f)] -> xpath: //button[@class='btn logout']]
+2024-06-30 01:06:89 INFO  CustomerLoginPage :28 - get text [[ChromeDriver: chrome on windows (9af540b7ea9f1d05d961730767f6740f)] -> xpath: //label[normalize-space()='Your Name :']]
+2024-06-30 01:06:74 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (8c58c81223d04a2543b32b157aa539cd)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-06-30 01:06:765 INFO  OpenAccountPage :29 - select Harry Potter
+2024-06-30 01:06:855 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (8c58c81223d04a2543b32b157aa539cd)] -> xpath: //button[normalize-space()='Login']]
+2024-06-30 01:06:345 INFO  AccountPage :36 - click on [[ChromeDriver: chrome on windows (8c58c81223d04a2543b32b157aa539cd)] -> xpath: //button[normalize-space()='Deposit']]
+2024-06-30 01:06:932 INFO  AccountPage :51 - Enter 1000
+2024-06-30 01:06:07 INFO  AccountPage :46 - click on [[ChromeDriver: chrome on windows (8c58c81223d04a2543b32b157aa539cd)] -> xpath: //button[@type='submit']]
+2024-06-30 01:06:29 INFO  AccountPage :55 - Get text [[ChromeDriver: chrome on windows (8c58c81223d04a2543b32b157aa539cd)] -> xpath: //span[@class='error ng-binding']]
+2024-06-30 01:06:504 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (b26727e06d080d881dab542c289fe957)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-06-30 01:06:128 INFO  OpenAccountPage :29 - select Harry Potter
+2024-06-30 01:06:212 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (b26727e06d080d881dab542c289fe957)] -> xpath: //button[normalize-space()='Login']]
+2024-06-30 01:06:762 INFO  AccountPage :41 - click on [[ChromeDriver: chrome on windows (b26727e06d080d881dab542c289fe957)] -> xpath: //button[normalize-space()='Withdrawl']]
+2024-06-30 01:06:286 INFO  AccountPage :51 - Enter 50
+2024-06-30 01:06:361 INFO  AccountPage :46 - click on [[ChromeDriver: chrome on windows (b26727e06d080d881dab542c289fe957)] -> xpath: //button[@type='submit']]
+2024-06-30 01:06:384 INFO  AccountPage :55 - Get text [[ChromeDriver: chrome on windows (b26727e06d080d881dab542c289fe957)] -> xpath: //span[@class='error ng-binding']]
+2024-07-01 18:07:846 INFO  HomePage :24 - click on [[ChromeDriver: chrome on windows (52885e6271655dede291c22653ea9ba0)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-07-01 18:07:430 INFO  BankManageLoginPage :26 - click on [[ChromeDriver: chrome on windows (52885e6271655dede291c22653ea9ba0)] -> xpath: //button[normalize-space()='Add Customer']]
+2024-07-01 18:07:123 INFO  AddCustomerPage :32 - Enter first name Prime
+2024-07-01 18:07:224 INFO  AddCustomerPage :37 - Enter last name Testing
+2024-07-01 18:07:316 INFO  AddCustomerPage :42 - Enter post code B983AF
+2024-07-01 18:07:386 INFO  AddCustomerPage :48 - click on [[ChromeDriver: chrome on windows (52885e6271655dede291c22653ea9ba0)] -> xpath: //button[@type='submit']]
+2024-07-01 18:07:346 INFO  HomePage :24 - click on [[ChromeDriver: chrome on windows (c96bb8bf23a39da2b64548bdedd84903)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-07-01 18:07:846 INFO  BankManageLoginPage :31 - click on [[ChromeDriver: chrome on windows (c96bb8bf23a39da2b64548bdedd84903)] -> xpath: //button[normalize-space()='Open Account']]
+2024-07-01 18:07:538 INFO  OpenAccountPage :29 - select Harry Potter
+2024-07-01 18:07:675 INFO  OpenAccountPage :34 - select Pound
+2024-07-01 18:07:758 INFO  OpenAccountPage :39 - Click on [[ChromeDriver: chrome on windows (c96bb8bf23a39da2b64548bdedd84903)] -> xpath: //button[normalize-space()='Process']]
+2024-07-01 18:07:431 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (880b210afb364be8310834a2a1a4858d)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-07-01 18:07:232 INFO  OpenAccountPage :29 - select Harry Potter
+2024-07-01 18:07:327 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (880b210afb364be8310834a2a1a4858d)] -> xpath: //button[normalize-space()='Login']]
+2024-07-01 18:07:874 INFO  CustomerPage :24 - get logout text [[ChromeDriver: chrome on windows (880b210afb364be8310834a2a1a4858d)] -> xpath: //button[@class='btn logout']]
+2024-07-01 18:07:992 INFO  CustomerPage :20 - click on [[ChromeDriver: chrome on windows (880b210afb364be8310834a2a1a4858d)] -> xpath: //button[@class='btn logout']]
+2024-07-01 18:07:04 INFO  CustomerLoginPage :28 - get text [[ChromeDriver: chrome on windows (880b210afb364be8310834a2a1a4858d)] -> xpath: //label[normalize-space()='Your Name :']]
+2024-07-01 18:07:775 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (a031bd31a1136feca48b9a89a4011f5e)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-07-01 18:07:405 INFO  OpenAccountPage :29 - select Harry Potter
+2024-07-01 18:07:454 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (a031bd31a1136feca48b9a89a4011f5e)] -> xpath: //button[normalize-space()='Login']]
+2024-07-01 18:07:15 INFO  AccountPage :36 - click on [[ChromeDriver: chrome on windows (a031bd31a1136feca48b9a89a4011f5e)] -> xpath: //button[normalize-space()='Deposit']]
+2024-07-01 18:07:561 INFO  AccountPage :51 - Enter 1000
+2024-07-01 18:07:621 INFO  AccountPage :46 - click on [[ChromeDriver: chrome on windows (a031bd31a1136feca48b9a89a4011f5e)] -> xpath: //button[@type='submit']]
+2024-07-01 18:07:636 INFO  AccountPage :55 - Get text [[ChromeDriver: chrome on windows (a031bd31a1136feca48b9a89a4011f5e)] -> xpath: //span[@class='error ng-binding']]
+2024-07-01 18:07:181 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (4d93bf4dae59aff7213285cd63da3704)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-07-01 18:07:849 INFO  OpenAccountPage :29 - select Harry Potter
+2024-07-01 18:07:915 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (4d93bf4dae59aff7213285cd63da3704)] -> xpath: //button[normalize-space()='Login']]
+2024-07-01 18:07:401 INFO  AccountPage :41 - click on [[ChromeDriver: chrome on windows (4d93bf4dae59aff7213285cd63da3704)] -> xpath: //button[normalize-space()='Withdrawl']]
+2024-07-01 18:07:946 INFO  AccountPage :51 - Enter 50
+2024-07-01 18:07:04 INFO  AccountPage :46 - click on [[ChromeDriver: chrome on windows (4d93bf4dae59aff7213285cd63da3704)] -> xpath: //button[@type='submit']]
+2024-07-01 18:07:16 INFO  AccountPage :55 - Get text [[ChromeDriver: chrome on windows (4d93bf4dae59aff7213285cd63da3704)] -> xpath: //span[@class='error ng-binding']]
+2024-07-02 11:07:816 INFO  HomePage :24 - click on [[ChromeDriver: chrome on windows (b73f4ef26f5d676f7ec496b73d9c040a)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-07-02 11:07:378 INFO  BankManageLoginPage :26 - click on [[ChromeDriver: chrome on windows (b73f4ef26f5d676f7ec496b73d9c040a)] -> xpath: //button[normalize-space()='Add Customer']]
+2024-07-02 11:07:928 INFO  AddCustomerPage :32 - Enter first name Prime
+2024-07-02 11:07:996 INFO  AddCustomerPage :37 - Enter last name Testing
+2024-07-02 11:07:59 INFO  AddCustomerPage :42 - Enter post code HA9 7AJ
+2024-07-02 11:07:115 INFO  AddCustomerPage :48 - click on [[ChromeDriver: chrome on windows (b73f4ef26f5d676f7ec496b73d9c040a)] -> xpath: //button[@type='submit']]
+2024-07-02 11:07:839 INFO  HomePage :24 - click on [[ChromeDriver: chrome on windows (eb663a677b997478429b5736375d2102)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-07-02 11:07:303 INFO  BankManageLoginPage :31 - click on [[ChromeDriver: chrome on windows (eb663a677b997478429b5736375d2102)] -> xpath: //button[normalize-space()='Open Account']]
+2024-07-02 11:07:907 INFO  OpenAccountPage :29 - select Harry Potter
+2024-07-02 11:07:15 INFO  OpenAccountPage :34 - select Pound
+2024-07-02 11:07:73 INFO  OpenAccountPage :39 - Click on [[ChromeDriver: chrome on windows (eb663a677b997478429b5736375d2102)] -> xpath: //button[normalize-space()='Process']]
+2024-07-02 11:07:942 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (16bc2bf74c8d12b7b90364a56ffe1f9c)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-07-02 11:07:572 INFO  OpenAccountPage :29 - select Harry Potter
+2024-07-02 11:07:637 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (16bc2bf74c8d12b7b90364a56ffe1f9c)] -> xpath: //button[normalize-space()='Login']]
+2024-07-02 11:07:92 INFO  CustomerPage :24 - get logout text [[ChromeDriver: chrome on windows (16bc2bf74c8d12b7b90364a56ffe1f9c)] -> xpath: //button[@class='btn logout']]
+2024-07-02 11:07:190 INFO  CustomerPage :20 - click on [[ChromeDriver: chrome on windows (16bc2bf74c8d12b7b90364a56ffe1f9c)] -> xpath: //button[@class='btn logout']]
+2024-07-02 11:07:220 INFO  CustomerLoginPage :28 - get text [[ChromeDriver: chrome on windows (16bc2bf74c8d12b7b90364a56ffe1f9c)] -> xpath: //label[normalize-space()='Your Name :']]
+2024-07-02 11:07:27 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (387fa48fac9cdec3e0bffebc5b42c1af)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-07-02 11:07:644 INFO  OpenAccountPage :29 - select Harry Potter
+2024-07-02 11:07:718 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (387fa48fac9cdec3e0bffebc5b42c1af)] -> xpath: //button[normalize-space()='Login']]
+2024-07-02 11:07:286 INFO  AccountPage :36 - click on [[ChromeDriver: chrome on windows (387fa48fac9cdec3e0bffebc5b42c1af)] -> xpath: //button[normalize-space()='Deposit']]
+2024-07-02 11:07:806 INFO  AccountPage :51 - Enter 10000
+2024-07-02 11:07:861 INFO  AccountPage :46 - click on [[ChromeDriver: chrome on windows (387fa48fac9cdec3e0bffebc5b42c1af)] -> xpath: //button[@type='submit']]
+2024-07-02 11:07:880 INFO  AccountPage :55 - Get text [[ChromeDriver: chrome on windows (387fa48fac9cdec3e0bffebc5b42c1af)] -> xpath: //span[@class='error ng-binding']]
+2024-07-02 11:07:83 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (bf0a1a5a0cc76101fa7b429855f10dc8)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-07-02 11:07:697 INFO  OpenAccountPage :29 - select Harry Potter
+2024-07-02 11:07:748 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (bf0a1a5a0cc76101fa7b429855f10dc8)] -> xpath: //button[normalize-space()='Login']]
+2024-07-02 11:07:213 INFO  HomePage :24 - click on [[ChromeDriver: chrome on windows (945bb6e6c292e29e7d0c09e3d4ea3af7)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-07-02 11:07:680 INFO  BankManageLoginPage :26 - click on [[ChromeDriver: chrome on windows (945bb6e6c292e29e7d0c09e3d4ea3af7)] -> xpath: //button[normalize-space()='Add Customer']]
+2024-07-02 11:07:232 INFO  AddCustomerPage :32 - Enter first name Prime
+2024-07-02 11:07:311 INFO  AddCustomerPage :37 - Enter last name Testing
+2024-07-02 11:07:420 INFO  AddCustomerPage :42 - Enter post code HA9 7AJ
+2024-07-02 11:07:487 INFO  AddCustomerPage :48 - click on [[ChromeDriver: chrome on windows (945bb6e6c292e29e7d0c09e3d4ea3af7)] -> xpath: //button[@type='submit']]
+2024-07-02 11:07:943 INFO  HomePage :24 - click on [[ChromeDriver: chrome on windows (a335d4418236e5ac97f58a42dbf12270)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-07-02 11:07:399 INFO  BankManageLoginPage :31 - click on [[ChromeDriver: chrome on windows (a335d4418236e5ac97f58a42dbf12270)] -> xpath: //button[normalize-space()='Open Account']]
+2024-07-02 11:07:981 INFO  OpenAccountPage :29 - select Harry Potter
+2024-07-02 11:07:66 INFO  OpenAccountPage :34 - select Pound
+2024-07-02 11:07:127 INFO  OpenAccountPage :39 - Click on [[ChromeDriver: chrome on windows (a335d4418236e5ac97f58a42dbf12270)] -> xpath: //button[normalize-space()='Process']]
+2024-07-02 11:07:982 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (80975d3a32a870ff510cfe38eb469fcb)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-07-02 11:07:599 INFO  OpenAccountPage :29 - select Harry Potter
+2024-07-02 11:07:653 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (80975d3a32a870ff510cfe38eb469fcb)] -> xpath: //button[normalize-space()='Login']]
+2024-07-02 11:07:148 INFO  CustomerPage :24 - get logout text [[ChromeDriver: chrome on windows (80975d3a32a870ff510cfe38eb469fcb)] -> xpath: //button[@class='btn logout']]
+2024-07-02 11:07:229 INFO  CustomerPage :20 - click on [[ChromeDriver: chrome on windows (80975d3a32a870ff510cfe38eb469fcb)] -> xpath: //button[@class='btn logout']]
+2024-07-02 11:07:253 INFO  CustomerLoginPage :28 - get text [[ChromeDriver: chrome on windows (80975d3a32a870ff510cfe38eb469fcb)] -> xpath: //label[normalize-space()='Your Name :']]
+2024-07-02 11:07:787 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (4cf5c55388ca2d719747dde8d3ae124a)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-07-02 11:07:368 INFO  OpenAccountPage :29 - select Harry Potter
+2024-07-02 11:07:415 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (4cf5c55388ca2d719747dde8d3ae124a)] -> xpath: //button[normalize-space()='Login']]
+2024-07-02 11:07:912 INFO  AccountPage :36 - click on [[ChromeDriver: chrome on windows (4cf5c55388ca2d719747dde8d3ae124a)] -> xpath: //button[normalize-space()='Deposit']]
+2024-07-02 11:07:392 INFO  AccountPage :51 - Enter 10000
+2024-07-02 11:07:441 INFO  AccountPage :46 - click on [[ChromeDriver: chrome on windows (4cf5c55388ca2d719747dde8d3ae124a)] -> xpath: //button[@type='submit']]
+2024-07-02 11:07:458 INFO  AccountPage :55 - Get text [[ChromeDriver: chrome on windows (4cf5c55388ca2d719747dde8d3ae124a)] -> xpath: //span[@class='error ng-binding']]
+2024-07-02 11:07:879 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (f5b57adda3bd47618e61798bddf816d6)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-07-02 11:07:432 INFO  OpenAccountPage :29 - select Harry Potter
+2024-07-02 11:07:480 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (f5b57adda3bd47618e61798bddf816d6)] -> xpath: //button[normalize-space()='Login']]
+2024-07-02 12:07:788 INFO  HomePage :24 - click on [[ChromeDriver: chrome on windows (a2e5b443aa89e6fc267a81181bc0e473)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-07-02 12:07:297 INFO  BankManageLoginPage :26 - click on [[ChromeDriver: chrome on windows (a2e5b443aa89e6fc267a81181bc0e473)] -> xpath: //button[normalize-space()='Add Customer']]
+2024-07-02 12:07:903 INFO  AddCustomerPage :32 - Enter first name Prime
+2024-07-02 12:07:989 INFO  AddCustomerPage :37 - Enter last name Testing
+2024-07-02 12:07:64 INFO  AddCustomerPage :42 - Enter post code HA9 7AJ
+2024-07-02 12:07:115 INFO  AddCustomerPage :48 - click on [[ChromeDriver: chrome on windows (a2e5b443aa89e6fc267a81181bc0e473)] -> xpath: //button[@type='submit']]
+2024-07-02 12:07:836 INFO  HomePage :24 - click on [[ChromeDriver: chrome on windows (25a625e322f41bf97a767ebb4ccf7f9d)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-07-02 12:07:315 INFO  BankManageLoginPage :31 - click on [[ChromeDriver: chrome on windows (25a625e322f41bf97a767ebb4ccf7f9d)] -> xpath: //button[normalize-space()='Open Account']]
+2024-07-02 12:07:843 INFO  OpenAccountPage :29 - select Harry Potter
+2024-07-02 12:07:940 INFO  OpenAccountPage :34 - select Pound
+2024-07-02 12:07:986 INFO  OpenAccountPage :39 - Click on [[ChromeDriver: chrome on windows (25a625e322f41bf97a767ebb4ccf7f9d)] -> xpath: //button[normalize-space()='Process']]
+2024-07-02 12:07:827 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (50c2dafe22a89643892d8e9373872e4d)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-07-02 12:07:402 INFO  OpenAccountPage :29 - select Harry Potter
+2024-07-02 12:07:464 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (50c2dafe22a89643892d8e9373872e4d)] -> xpath: //button[normalize-space()='Login']]
+2024-07-02 12:07:922 INFO  CustomerPage :24 - get logout text [[ChromeDriver: chrome on windows (50c2dafe22a89643892d8e9373872e4d)] -> xpath: //button[@class='btn logout']]
+2024-07-02 12:07:988 INFO  CustomerPage :20 - click on [[ChromeDriver: chrome on windows (50c2dafe22a89643892d8e9373872e4d)] -> xpath: //button[@class='btn logout']]
+2024-07-02 12:07:02 INFO  CustomerLoginPage :28 - get text [[ChromeDriver: chrome on windows (50c2dafe22a89643892d8e9373872e4d)] -> xpath: //label[normalize-space()='Your Name :']]
+2024-07-02 12:07:846 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (8cb1bcdcb73ee40ec69fbe0506cec424)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-07-02 12:07:429 INFO  OpenAccountPage :29 - select Harry Potter
+2024-07-02 12:07:484 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (8cb1bcdcb73ee40ec69fbe0506cec424)] -> xpath: //button[normalize-space()='Login']]
+2024-07-02 12:07:31 INFO  AccountPage :36 - click on [[ChromeDriver: chrome on windows (8cb1bcdcb73ee40ec69fbe0506cec424)] -> xpath: //button[normalize-space()='Deposit']]
+2024-07-02 12:07:523 INFO  AccountPage :51 - Enter 10000
+2024-07-02 12:07:581 INFO  AccountPage :46 - click on [[ChromeDriver: chrome on windows (8cb1bcdcb73ee40ec69fbe0506cec424)] -> xpath: //button[@type='submit']]
+2024-07-02 12:07:597 INFO  AccountPage :55 - Get text [[ChromeDriver: chrome on windows (8cb1bcdcb73ee40ec69fbe0506cec424)] -> xpath: //span[@class='error ng-binding']]
+2024-07-02 12:07:928 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (bb88ec12aede0de25c36b186eb0c8ea6)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-07-02 12:07:470 INFO  OpenAccountPage :29 - select Harry Potter
+2024-07-02 12:07:513 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (bb88ec12aede0de25c36b186eb0c8ea6)] -> xpath: //button[normalize-space()='Login']]
+2024-07-02 12:07:994 INFO  AccountPage :41 - click on [[ChromeDriver: chrome on windows (bb88ec12aede0de25c36b186eb0c8ea6)] -> xpath: //body/div[1]/div[1]/div[2]/div[1]/div[3]/button[3]]
+2024-07-02 12:07:492 INFO  AccountPage :51 - Enter 500
+2024-07-02 12:07:539 INFO  AccountPage :46 - click on [[ChromeDriver: chrome on windows (bb88ec12aede0de25c36b186eb0c8ea6)] -> xpath: //button[@type='submit']]
+2024-07-02 12:07:550 INFO  AccountPage :55 - Get text [[ChromeDriver: chrome on windows (bb88ec12aede0de25c36b186eb0c8ea6)] -> xpath: //span[@class='error ng-binding']]
+2024-07-02 13:07:07 INFO  HomePage :24 - click on [[ChromeDriver: chrome on windows (ccf792a6bc98c38effa8a8a7b4921be2)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-07-02 13:07:711 INFO  BankManageLoginPage :26 - click on [[ChromeDriver: chrome on windows (ccf792a6bc98c38effa8a8a7b4921be2)] -> xpath: //button[normalize-space()='Add Customer']]
+2024-07-02 13:07:448 INFO  AddCustomerPage :32 - Enter first name Prime
+2024-07-02 13:07:525 INFO  AddCustomerPage :37 - Enter last name Testing
+2024-07-02 13:07:632 INFO  AddCustomerPage :42 - Enter post code HA9 7AJ
+2024-07-02 13:07:707 INFO  AddCustomerPage :48 - click on [[ChromeDriver: chrome on windows (ccf792a6bc98c38effa8a8a7b4921be2)] -> xpath: //button[@type='submit']]
+2024-07-02 13:07:579 INFO  HomePage :24 - click on [[ChromeDriver: chrome on windows (7c5a0c1aeffd77910fd70cc0541e86fc)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-07-02 13:07:89 INFO  BankManageLoginPage :31 - click on [[ChromeDriver: chrome on windows (7c5a0c1aeffd77910fd70cc0541e86fc)] -> xpath: //button[normalize-space()='Open Account']]
+2024-07-02 13:07:193 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (cc7f825fd11279e7aa1d4194e64fb525)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-07-02 13:07:693 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (4c9869ad62472133655be7415789d58a)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-07-02 13:07:177 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (b35ba19b1655b0f25199de880bf3252a)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-07-02 13:07:362 INFO  HomePage :24 - click on [[ChromeDriver: chrome on windows (c3d050aa632c537d2e6221bb72dfb286)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-07-02 13:07:986 INFO  BankManageLoginPage :26 - click on [[ChromeDriver: chrome on windows (c3d050aa632c537d2e6221bb72dfb286)] -> xpath: //button[normalize-space()='Add Customer']]
+2024-07-02 13:07:672 INFO  AddCustomerPage :32 - Enter first name Prime
+2024-07-02 13:07:765 INFO  AddCustomerPage :37 - Enter last name Testing
+2024-07-02 13:07:848 INFO  AddCustomerPage :42 - Enter post code HA9 7AJ
+2024-07-02 13:07:902 INFO  AddCustomerPage :48 - click on [[ChromeDriver: chrome on windows (c3d050aa632c537d2e6221bb72dfb286)] -> xpath: //button[@type='submit']]
+2024-07-02 13:07:22 INFO  HomePage :24 - click on [[ChromeDriver: chrome on windows (d37d6040308a6b9d067c567eb1e2e662)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-07-02 13:07:638 INFO  BankManageLoginPage :31 - click on [[ChromeDriver: chrome on windows (d37d6040308a6b9d067c567eb1e2e662)] -> xpath: //button[normalize-space()='Open Account']]
+2024-07-02 13:07:549 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (f1a0819822e2086f2c09509a6d9bec41)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-07-02 13:07:306 INFO  OpenAccountPage :29 - select Harry Potter
+2024-07-02 13:07:362 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (f1a0819822e2086f2c09509a6d9bec41)] -> xpath: //button[normalize-space()='Login']]
+2024-07-02 13:07:22 INFO  CustomerPage :24 - get logout text [[ChromeDriver: chrome on windows (f1a0819822e2086f2c09509a6d9bec41)] -> xpath: //button[@class='btn logout']]
+2024-07-02 13:07:99 INFO  CustomerPage :20 - click on [[ChromeDriver: chrome on windows (f1a0819822e2086f2c09509a6d9bec41)] -> xpath: //button[@class='btn logout']]
+2024-07-02 13:07:114 INFO  CustomerLoginPage :28 - get text [[ChromeDriver: chrome on windows (f1a0819822e2086f2c09509a6d9bec41)] -> xpath: //label[normalize-space()='Your Name :']]
+2024-07-02 13:07:219 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (76c84f048449faf40160dfdbb57dbcb2)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-07-02 13:07:880 INFO  OpenAccountPage :29 - select Harry Potter
+2024-07-02 13:07:928 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (76c84f048449faf40160dfdbb57dbcb2)] -> xpath: //button[normalize-space()='Login']]
+2024-07-02 13:07:475 INFO  AccountPage :36 - click on [[ChromeDriver: chrome on windows (76c84f048449faf40160dfdbb57dbcb2)] -> xpath: //button[normalize-space()='Deposit']]
+2024-07-02 13:07:00 INFO  AccountPage :51 - Enter 10000
+2024-07-02 13:07:70 INFO  AccountPage :46 - click on [[ChromeDriver: chrome on windows (76c84f048449faf40160dfdbb57dbcb2)] -> xpath: //button[@type='submit']]
+2024-07-02 13:07:88 INFO  AccountPage :55 - Get text [[ChromeDriver: chrome on windows (76c84f048449faf40160dfdbb57dbcb2)] -> xpath: //span[@class='error ng-binding']]
+2024-07-02 13:07:994 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (a8e5b3f3d5cd3848bef5146a5ae8dcc3)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-07-02 13:07:645 INFO  OpenAccountPage :29 - select Harry Potter
+2024-07-02 13:07:704 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (a8e5b3f3d5cd3848bef5146a5ae8dcc3)] -> xpath: //button[normalize-space()='Login']]
+2024-07-02 13:07:217 INFO  AccountPage :41 - click on [[ChromeDriver: chrome on windows (a8e5b3f3d5cd3848bef5146a5ae8dcc3)] -> xpath: //body/div[1]/div[1]/div[2]/div[1]/div[3]/button[3]]
+2024-07-02 13:07:754 INFO  AccountPage :51 - Enter 500
+2024-07-02 13:07:825 INFO  AccountPage :46 - click on [[ChromeDriver: chrome on windows (a8e5b3f3d5cd3848bef5146a5ae8dcc3)] -> xpath: //button[@type='submit']]
+2024-07-02 13:07:841 INFO  AccountPage :55 - Get text [[ChromeDriver: chrome on windows (a8e5b3f3d5cd3848bef5146a5ae8dcc3)] -> xpath: //span[@class='error ng-binding']]
+2024-07-02 14:07:715 INFO  HomePage :24 - click on [[ChromeDriver: chrome on windows (c0b65d44fd4837c38dad8b23a90fa8ed)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-07-02 14:07:716 INFO  BankManageLoginPage :26 - click on [[ChromeDriver: chrome on windows (c0b65d44fd4837c38dad8b23a90fa8ed)] -> xpath: //button[normalize-space()='Add Customer']]
+2024-07-02 14:07:857 INFO  AddCustomerPage :32 - Enter first name Prime
+2024-07-02 14:07:996 INFO  AddCustomerPage :37 - Enter last name Testing
+2024-07-02 14:07:98 INFO  AddCustomerPage :42 - Enter post code HA9 7AJ
+2024-07-02 14:07:152 INFO  AddCustomerPage :48 - click on [[ChromeDriver: chrome on windows (c0b65d44fd4837c38dad8b23a90fa8ed)] -> xpath: //button[@type='submit']]
+2024-07-02 14:07:325 INFO  HomePage :24 - click on [[ChromeDriver: chrome on windows (7df6b3405af4db8da39c75cd36a35709)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-07-02 14:07:215 INFO  BankManageLoginPage :31 - click on [[ChromeDriver: chrome on windows (7df6b3405af4db8da39c75cd36a35709)] -> xpath: //button[normalize-space()='Open Account']]
+2024-07-02 14:07:123 INFO  OpenAccountPage :29 - select Harry Potter
+2024-07-02 14:07:249 INFO  OpenAccountPage :34 - select Pound
+2024-07-02 14:07:332 INFO  OpenAccountPage :39 - Click on [[ChromeDriver: chrome on windows (7df6b3405af4db8da39c75cd36a35709)] -> xpath: //button[normalize-space()='Process']]
+2024-07-02 14:07:40 INFO  HomePage :24 - click on [[ChromeDriver: chrome on windows (9743db581201c6d15fca0458c9fd9d15)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-07-02 14:07:859 INFO  BankManageLoginPage :26 - click on [[ChromeDriver: chrome on windows (9743db581201c6d15fca0458c9fd9d15)] -> xpath: //button[normalize-space()='Add Customer']]
+2024-07-02 14:07:789 INFO  AddCustomerPage :32 - Enter first name Prime
+2024-07-02 14:07:878 INFO  AddCustomerPage :37 - Enter last name Testing
+2024-07-02 14:07:975 INFO  AddCustomerPage :42 - Enter post code HA9 7AJ
+2024-07-02 14:07:45 INFO  AddCustomerPage :48 - click on [[ChromeDriver: chrome on windows (9743db581201c6d15fca0458c9fd9d15)] -> xpath: //button[@type='submit']]
+2024-07-02 14:07:141 INFO  HomePage :24 - click on [[ChromeDriver: chrome on windows (665acfdc9e9aa6d0cd84445fe544eb8a)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-07-02 14:07:965 INFO  BankManageLoginPage :31 - click on [[ChromeDriver: chrome on windows (665acfdc9e9aa6d0cd84445fe544eb8a)] -> xpath: //button[normalize-space()='Open Account']]
+2024-07-02 14:07:845 INFO  OpenAccountPage :29 - select Harry Potter
+2024-07-02 14:07:969 INFO  OpenAccountPage :34 - select Pound
+2024-07-02 14:07:59 INFO  OpenAccountPage :39 - Click on [[ChromeDriver: chrome on windows (665acfdc9e9aa6d0cd84445fe544eb8a)] -> xpath: //button[normalize-space()='Process']]
+2024-07-02 14:07:53 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (0c430b721cb16537d98dc5d750ab5ebe)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-07-02 14:07:06 INFO  OpenAccountPage :29 - select Harry Potter
+2024-07-02 14:07:66 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (0c430b721cb16537d98dc5d750ab5ebe)] -> xpath: //button[normalize-space()='Login']]
+2024-07-02 14:07:822 INFO  CustomerPage :24 - get logout text [[ChromeDriver: chrome on windows (0c430b721cb16537d98dc5d750ab5ebe)] -> xpath: //button[@class='btn logout']]
+2024-07-02 14:07:895 INFO  CustomerPage :20 - click on [[ChromeDriver: chrome on windows (0c430b721cb16537d98dc5d750ab5ebe)] -> xpath: //button[@class='btn logout']]
+2024-07-02 14:07:909 INFO  CustomerLoginPage :28 - get text [[ChromeDriver: chrome on windows (0c430b721cb16537d98dc5d750ab5ebe)] -> xpath: //label[normalize-space()='Your Name :']]
+2024-07-02 14:07:129 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (26cc15bac167bbbaeafd7c3202cdbc18)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-07-02 14:07:10 INFO  OpenAccountPage :29 - select Harry Potter
+2024-07-02 14:07:74 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (26cc15bac167bbbaeafd7c3202cdbc18)] -> xpath: //button[normalize-space()='Login']]
+2024-07-02 14:07:877 INFO  AccountPage :36 - click on [[ChromeDriver: chrome on windows (26cc15bac167bbbaeafd7c3202cdbc18)] -> xpath: //button[normalize-space()='Deposit']]
+2024-07-02 14:07:725 INFO  AccountPage :51 - Enter 10000
+2024-07-02 14:07:809 INFO  AccountPage :46 - click on [[ChromeDriver: chrome on windows (26cc15bac167bbbaeafd7c3202cdbc18)] -> xpath: //button[@type='submit']]
+2024-07-02 14:07:831 INFO  AccountPage :55 - Get text [[ChromeDriver: chrome on windows (26cc15bac167bbbaeafd7c3202cdbc18)] -> xpath: //span[@class='error ng-binding']]
+2024-07-02 14:07:819 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (a71a1deac4fbc42d84c794822b66d75f)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-07-02 14:07:440 INFO  OpenAccountPage :29 - select Harry Potter
+2024-07-02 14:07:486 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (a71a1deac4fbc42d84c794822b66d75f)] -> xpath: //button[normalize-space()='Login']]
+2024-07-02 14:07:52 INFO  AccountPage :41 - click on [[ChromeDriver: chrome on windows (a71a1deac4fbc42d84c794822b66d75f)] -> xpath: //body/div[1]/div[1]/div[2]/div[1]/div[3]/button[3]]
+2024-07-02 14:07:561 INFO  AccountPage :51 - Enter 500
+2024-07-02 14:07:635 INFO  AccountPage :46 - click on [[ChromeDriver: chrome on windows (a71a1deac4fbc42d84c794822b66d75f)] -> xpath: //button[@type='submit']]
+2024-07-02 14:07:655 INFO  AccountPage :55 - Get text [[ChromeDriver: chrome on windows (a71a1deac4fbc42d84c794822b66d75f)] -> xpath: //span[@class='error ng-binding']]
+2024-07-02 14:07:964 INFO  HomePage :24 - click on [[ChromeDriver: chrome on windows (d5fb03353a093c5ed35dbb66d347cb3e)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-07-02 14:07:671 INFO  BankManageLoginPage :26 - click on [[ChromeDriver: chrome on windows (d5fb03353a093c5ed35dbb66d347cb3e)] -> xpath: //button[normalize-space()='Add Customer']]
+2024-07-02 14:07:333 INFO  AddCustomerPage :32 - Enter first name Prime
+2024-07-02 14:07:406 INFO  AddCustomerPage :37 - Enter last name Testing
+2024-07-02 14:07:497 INFO  AddCustomerPage :42 - Enter post code HA9 7AJ
+2024-07-02 14:07:552 INFO  AddCustomerPage :48 - click on [[ChromeDriver: chrome on windows (d5fb03353a093c5ed35dbb66d347cb3e)] -> xpath: //button[@type='submit']]
+2024-07-02 14:07:519 INFO  HomePage :24 - click on [[ChromeDriver: chrome on windows (0f75619531073937e82b21a42837e969)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-07-02 14:07:257 INFO  BankManageLoginPage :31 - click on [[ChromeDriver: chrome on windows (0f75619531073937e82b21a42837e969)] -> xpath: //button[normalize-space()='Open Account']]
+2024-07-02 14:07:77 INFO  OpenAccountPage :29 - select Harry Potter
+2024-07-02 14:07:175 INFO  OpenAccountPage :34 - select Pound
+2024-07-02 14:07:256 INFO  OpenAccountPage :39 - Click on [[ChromeDriver: chrome on windows (0f75619531073937e82b21a42837e969)] -> xpath: //button[normalize-space()='Process']]
+2024-07-02 14:07:208 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (1624e61f40777e1c8b6cf94a8106d75f)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-07-02 14:07:837 INFO  OpenAccountPage :29 - select Harry Potter
+2024-07-02 14:07:892 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (1624e61f40777e1c8b6cf94a8106d75f)] -> xpath: //button[normalize-space()='Login']]
+2024-07-02 14:07:448 INFO  CustomerPage :24 - get logout text [[ChromeDriver: chrome on windows (1624e61f40777e1c8b6cf94a8106d75f)] -> xpath: //button[@class='btn logout']]
+2024-07-02 14:07:505 INFO  CustomerPage :20 - click on [[ChromeDriver: chrome on windows (1624e61f40777e1c8b6cf94a8106d75f)] -> xpath: //button[@class='btn logout']]
+2024-07-02 14:07:524 INFO  CustomerLoginPage :28 - get text [[ChromeDriver: chrome on windows (1624e61f40777e1c8b6cf94a8106d75f)] -> xpath: //label[normalize-space()='Your Name :']]
+2024-07-02 14:07:04 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (b726bf624f1de3c6419201f6f92e5fb0)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-07-02 14:07:646 INFO  OpenAccountPage :29 - select Harry Potter
+2024-07-02 14:07:691 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (b726bf624f1de3c6419201f6f92e5fb0)] -> xpath: //button[normalize-space()='Login']]
+2024-07-02 14:07:169 INFO  AccountPage :36 - click on [[ChromeDriver: chrome on windows (b726bf624f1de3c6419201f6f92e5fb0)] -> xpath: //button[normalize-space()='Deposit']]
+2024-07-02 14:07:731 INFO  AccountPage :51 - Enter 100000
+2024-07-02 14:07:798 INFO  AccountPage :46 - click on [[ChromeDriver: chrome on windows (b726bf624f1de3c6419201f6f92e5fb0)] -> xpath: //button[@type='submit']]
+2024-07-02 14:07:818 INFO  AccountPage :55 - Get text [[ChromeDriver: chrome on windows (b726bf624f1de3c6419201f6f92e5fb0)] -> xpath: //span[@class='error ng-binding']]
+2024-07-02 14:07:186 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (ee5be1f67b1670c9893e363c89668ac2)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-07-02 14:07:800 INFO  OpenAccountPage :29 - select Harry Potter
+2024-07-02 14:07:859 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (ee5be1f67b1670c9893e363c89668ac2)] -> xpath: //button[normalize-space()='Login']]
+2024-07-02 14:07:383 INFO  AccountPage :41 - click on [[ChromeDriver: chrome on windows (ee5be1f67b1670c9893e363c89668ac2)] -> xpath: //body/div[1]/div[1]/div[2]/div[1]/div[3]/button[3]]
+2024-07-02 14:07:934 INFO  AccountPage :51 - Enter 50
+2024-07-02 14:07:998 INFO  AccountPage :46 - click on [[ChromeDriver: chrome on windows (ee5be1f67b1670c9893e363c89668ac2)] -> xpath: //button[@type='submit']]
+2024-07-02 14:07:13 INFO  AccountPage :55 - Get text [[ChromeDriver: chrome on windows (ee5be1f67b1670c9893e363c89668ac2)] -> xpath: //span[@class='error ng-binding']]
+2024-07-02 14:07:756 INFO  HomePage :24 - click on [[ChromeDriver: chrome on windows (9c2ca0b36d5a132502757f77435df9fd)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-07-02 14:07:365 INFO  BankManageLoginPage :26 - click on [[ChromeDriver: chrome on windows (9c2ca0b36d5a132502757f77435df9fd)] -> xpath: //button[normalize-space()='Add Customer']]
+2024-07-02 14:07:941 INFO  AddCustomerPage :32 - Enter first name Tom
+2024-07-02 14:07:23 INFO  AddCustomerPage :37 - Enter last name Marry
+2024-07-02 14:07:98 INFO  AddCustomerPage :42 - Enter post code HA9 7AJ
+2024-07-02 14:07:155 INFO  AddCustomerPage :48 - click on [[ChromeDriver: chrome on windows (9c2ca0b36d5a132502757f77435df9fd)] -> xpath: //button[@type='submit']]
+2024-07-02 14:07:610 INFO  HomePage :24 - click on [[ChromeDriver: chrome on windows (b4d6571bec5ae234639427769264a7b6)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-07-02 14:07:275 INFO  BankManageLoginPage :31 - click on [[ChromeDriver: chrome on windows (b4d6571bec5ae234639427769264a7b6)] -> xpath: //button[normalize-space()='Open Account']]
+2024-07-02 14:07:984 INFO  OpenAccountPage :29 - select Harry Potter
+2024-07-02 14:07:88 INFO  OpenAccountPage :34 - select Pound
+2024-07-02 14:07:141 INFO  OpenAccountPage :39 - Click on [[ChromeDriver: chrome on windows (b4d6571bec5ae234639427769264a7b6)] -> xpath: //button[normalize-space()='Process']]
+2024-07-02 14:07:953 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (2641c0008ad7b1cd0b7c45594df22b2e)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-07-02 14:07:546 INFO  OpenAccountPage :29 - select Harry Potter
+2024-07-02 14:07:603 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (2641c0008ad7b1cd0b7c45594df22b2e)] -> xpath: //button[normalize-space()='Login']]
+2024-07-02 14:07:74 INFO  CustomerPage :24 - get logout text [[ChromeDriver: chrome on windows (2641c0008ad7b1cd0b7c45594df22b2e)] -> xpath: //button[@class='btn logout']]
+2024-07-02 14:07:155 INFO  CustomerPage :20 - click on [[ChromeDriver: chrome on windows (2641c0008ad7b1cd0b7c45594df22b2e)] -> xpath: //button[@class='btn logout']]
+2024-07-02 14:07:171 INFO  CustomerLoginPage :28 - get text [[ChromeDriver: chrome on windows (2641c0008ad7b1cd0b7c45594df22b2e)] -> xpath: //label[normalize-space()='Your Name :']]
+2024-07-02 14:07:385 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (b71962c81e87216ee826cc0492b5def9)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-07-02 14:07:174 INFO  OpenAccountPage :29 - select Harry Potter
+2024-07-02 14:07:254 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (b71962c81e87216ee826cc0492b5def9)] -> xpath: //button[normalize-space()='Login']]
+2024-07-02 14:07:864 INFO  AccountPage :36 - click on [[ChromeDriver: chrome on windows (b71962c81e87216ee826cc0492b5def9)] -> xpath: //button[normalize-space()='Deposit']]
+2024-07-02 14:07:556 INFO  AccountPage :51 - Enter 100000
+2024-07-02 14:07:621 INFO  AccountPage :46 - click on [[ChromeDriver: chrome on windows (b71962c81e87216ee826cc0492b5def9)] -> xpath: //button[@type='submit']]
+2024-07-02 14:07:639 INFO  AccountPage :55 - Get text [[ChromeDriver: chrome on windows (b71962c81e87216ee826cc0492b5def9)] -> xpath: //span[@class='error ng-binding']]
+2024-07-02 14:07:811 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (1959ea5d1d244418d781c4ad05d98e21)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-07-02 14:07:556 INFO  OpenAccountPage :29 - select Harry Potter
+2024-07-02 14:07:614 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (1959ea5d1d244418d781c4ad05d98e21)] -> xpath: //button[normalize-space()='Login']]
+2024-07-02 14:07:363 INFO  AccountPage :41 - click on [[ChromeDriver: chrome on windows (1959ea5d1d244418d781c4ad05d98e21)] -> xpath: //body/div[1]/div[1]/div[2]/div[1]/div[3]/button[3]]
+2024-07-02 14:07:97 INFO  AccountPage :51 - Enter 50
+2024-07-02 14:07:160 INFO  AccountPage :46 - click on [[ChromeDriver: chrome on windows (1959ea5d1d244418d781c4ad05d98e21)] -> xpath: //button[@type='submit']]
+2024-07-02 14:07:177 INFO  AccountPage :55 - Get text [[ChromeDriver: chrome on windows (1959ea5d1d244418d781c4ad05d98e21)] -> xpath: //span[@class='error ng-binding']]
+2024-07-02 14:07:903 INFO  HomePage :24 - click on [[ChromeDriver: chrome on windows (5dcc8630a1944151f9a499457add2389)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-07-02 14:07:722 INFO  BankManageLoginPage :26 - click on [[ChromeDriver: chrome on windows (5dcc8630a1944151f9a499457add2389)] -> xpath: //button[normalize-space()='Add Customer']]
+2024-07-02 14:07:322 INFO  AddCustomerPage :32 - Enter first name Tom
+2024-07-02 14:07:392 INFO  AddCustomerPage :37 - Enter last name Marry
+2024-07-02 14:07:488 INFO  AddCustomerPage :42 - Enter post code HA9 7AJ
+2024-07-02 14:07:574 INFO  AddCustomerPage :48 - click on [[ChromeDriver: chrome on windows (5dcc8630a1944151f9a499457add2389)] -> xpath: //button[@type='submit']]
+2024-07-02 14:07:29 INFO  HomePage :24 - click on [[ChromeDriver: chrome on windows (e5a139e7d2c8386f28f306acfe960fa3)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-07-02 14:07:675 INFO  BankManageLoginPage :31 - click on [[ChromeDriver: chrome on windows (e5a139e7d2c8386f28f306acfe960fa3)] -> xpath: //button[normalize-space()='Open Account']]
+2024-07-02 14:07:389 INFO  OpenAccountPage :29 - select Harry Potter
+2024-07-02 14:07:517 INFO  OpenAccountPage :34 - select Pound
+2024-07-02 14:07:576 INFO  OpenAccountPage :39 - Click on [[ChromeDriver: chrome on windows (e5a139e7d2c8386f28f306acfe960fa3)] -> xpath: //button[normalize-space()='Process']]
+2024-07-02 14:07:405 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (ed18f8441bbb89c8b867d4821417ce94)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-07-02 14:07:81 INFO  OpenAccountPage :29 - select Hermoine Granger
+2024-07-02 14:07:141 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (ed18f8441bbb89c8b867d4821417ce94)] -> xpath: //button[normalize-space()='Login']]
+2024-07-02 14:07:626 INFO  CustomerPage :24 - get logout text [[ChromeDriver: chrome on windows (ed18f8441bbb89c8b867d4821417ce94)] -> xpath: //button[@class='btn logout']]
+2024-07-02 14:07:719 INFO  CustomerPage :20 - click on [[ChromeDriver: chrome on windows (ed18f8441bbb89c8b867d4821417ce94)] -> xpath: //button[@class='btn logout']]
+2024-07-02 14:07:733 INFO  CustomerLoginPage :28 - get text [[ChromeDriver: chrome on windows (ed18f8441bbb89c8b867d4821417ce94)] -> xpath: //label[normalize-space()='Your Name :']]
+2024-07-02 14:07:374 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (665e3e6f748c9ee2f3bb553874e1e151)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-07-02 14:07:927 INFO  OpenAccountPage :29 - select Hermoine Granger
+2024-07-02 14:07:988 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (665e3e6f748c9ee2f3bb553874e1e151)] -> xpath: //button[normalize-space()='Login']]
+2024-07-02 14:07:513 INFO  AccountPage :36 - click on [[ChromeDriver: chrome on windows (665e3e6f748c9ee2f3bb553874e1e151)] -> xpath: //button[normalize-space()='Deposit']]
+2024-07-02 14:07:13 INFO  AccountPage :51 - Enter 100000
+2024-07-02 14:07:80 INFO  AccountPage :46 - click on [[ChromeDriver: chrome on windows (665e3e6f748c9ee2f3bb553874e1e151)] -> xpath: //button[@type='submit']]
+2024-07-02 14:07:97 INFO  AccountPage :55 - Get text [[ChromeDriver: chrome on windows (665e3e6f748c9ee2f3bb553874e1e151)] -> xpath: //span[@class='error ng-binding']]
+2024-07-02 14:07:235 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (2241accdc49d93f83ee1f5b0e7f2cb50)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-07-02 14:07:822 INFO  OpenAccountPage :29 - select Hermoine Granger
+2024-07-02 14:07:880 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (2241accdc49d93f83ee1f5b0e7f2cb50)] -> xpath: //button[normalize-space()='Login']]
+2024-07-02 14:07:475 INFO  AccountPage :41 - click on [[ChromeDriver: chrome on windows (2241accdc49d93f83ee1f5b0e7f2cb50)] -> xpath: //body/div[1]/div[1]/div[2]/div[1]/div[3]/button[3]]
+2024-07-02 14:07:31 INFO  AccountPage :51 - Enter 50
+2024-07-02 14:07:123 INFO  AccountPage :46 - click on [[ChromeDriver: chrome on windows (2241accdc49d93f83ee1f5b0e7f2cb50)] -> xpath: //button[@type='submit']]
+2024-07-02 14:07:137 INFO  AccountPage :55 - Get text [[ChromeDriver: chrome on windows (2241accdc49d93f83ee1f5b0e7f2cb50)] -> xpath: //span[@class='error ng-binding']]
+2024-07-02 15:07:484 INFO  HomePage :24 - click on [[ChromeDriver: chrome on windows (a6422033428e9cc31cf2b30d959aa473)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-07-02 15:07:05 INFO  BankManageLoginPage :26 - click on [[ChromeDriver: chrome on windows (a6422033428e9cc31cf2b30d959aa473)] -> xpath: //button[normalize-space()='Add Customer']]
+2024-07-02 15:07:616 INFO  AddCustomerPage :32 - Enter first name Tom
+2024-07-02 15:07:749 INFO  AddCustomerPage :37 - Enter last name Marry
+2024-07-02 15:07:909 INFO  AddCustomerPage :42 - Enter post code HA9 7AJ
+2024-07-02 15:07:20 INFO  AddCustomerPage :48 - click on [[ChromeDriver: chrome on windows (a6422033428e9cc31cf2b30d959aa473)] -> xpath: //button[@type='submit']]
+2024-07-02 15:07:843 INFO  HomePage :24 - click on [[ChromeDriver: chrome on windows (a0bca13876b31a274612d655b31ff1e3)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2024-07-02 15:07:447 INFO  BankManageLoginPage :31 - click on [[ChromeDriver: chrome on windows (a0bca13876b31a274612d655b31ff1e3)] -> xpath: //button[normalize-space()='Open Account']]
+2024-07-02 15:07:124 INFO  OpenAccountPage :29 - select Harry Potter
+2024-07-02 15:07:296 INFO  OpenAccountPage :34 - select Pound
+2024-07-02 15:07:396 INFO  OpenAccountPage :39 - Click on [[ChromeDriver: chrome on windows (a0bca13876b31a274612d655b31ff1e3)] -> xpath: //button[normalize-space()='Process']]
+2024-07-02 15:07:213 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (f17b28444c36067742eee80a6f5f319b)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-07-02 15:07:819 INFO  OpenAccountPage :29 - select Hermoine Granger
+2024-07-02 15:07:896 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (f17b28444c36067742eee80a6f5f319b)] -> xpath: //button[normalize-space()='Login']]
+2024-07-02 15:07:327 INFO  CustomerPage :24 - get logout text [[ChromeDriver: chrome on windows (f17b28444c36067742eee80a6f5f319b)] -> xpath: //button[@class='btn logout']]
+2024-07-02 15:07:435 INFO  CustomerPage :20 - click on [[ChromeDriver: chrome on windows (f17b28444c36067742eee80a6f5f319b)] -> xpath: //button[@class='btn logout']]
+2024-07-02 15:07:460 INFO  CustomerLoginPage :28 - get text [[ChromeDriver: chrome on windows (f17b28444c36067742eee80a6f5f319b)] -> xpath: //label[normalize-space()='Your Name :']]
+2024-07-02 15:07:276 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (9016a084a70ea397c5e0b9e0a3f02a47)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-07-02 15:07:41 INFO  OpenAccountPage :29 - select Hermoine Granger
+2024-07-02 15:07:133 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (9016a084a70ea397c5e0b9e0a3f02a47)] -> xpath: //button[normalize-space()='Login']]
+2024-07-02 15:07:659 INFO  AccountPage :36 - click on [[ChromeDriver: chrome on windows (9016a084a70ea397c5e0b9e0a3f02a47)] -> xpath: //button[normalize-space()='Deposit']]
+2024-07-02 15:07:977 INFO  AccountPage :51 - Enter 100000
+2024-07-02 15:07:38 INFO  AccountPage :46 - click on [[ChromeDriver: chrome on windows (9016a084a70ea397c5e0b9e0a3f02a47)] -> xpath: //button[@type='submit']]
+2024-07-02 15:07:54 INFO  AccountPage :55 - Get text [[ChromeDriver: chrome on windows (9016a084a70ea397c5e0b9e0a3f02a47)] -> xpath: //span[@class='error ng-binding']]
+2024-07-02 15:07:140 INFO  HomePage :30 - click on [[ChromeDriver: chrome on windows (e201e37a2fd1ffe263a709bbc23fe622)] -> xpath: //button[normalize-space()='Customer Login']]
+2024-07-02 15:07:855 INFO  OpenAccountPage :29 - select Hermoine Granger
+2024-07-02 15:07:919 INFO  CustomerLoginPage :24 - click on [[ChromeDriver: chrome on windows (e201e37a2fd1ffe263a709bbc23fe622)] -> xpath: //button[normalize-space()='Login']]
+2024-07-02 15:07:483 INFO  AccountPage :41 - click on [[ChromeDriver: chrome on windows (e201e37a2fd1ffe263a709bbc23fe622)] -> xpath: //body/div[1]/div[1]/div[2]/div[1]/div[3]/button[3]]
+2024-07-02 15:07:32 INFO  AccountPage :51 - Enter 50
+2024-07-02 15:07:145 INFO  AccountPage :46 - click on [[ChromeDriver: chrome on windows (e201e37a2fd1ffe263a709bbc23fe622)] -> xpath: //button[@type='submit']]
+2024-07-02 15:07:168 INFO  AccountPage :55 - Get text [[ChromeDriver: chrome on windows (e201e37a2fd1ffe263a709bbc23fe622)] -> xpath: //span[@class='error ng-binding']]
